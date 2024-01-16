@@ -34,6 +34,7 @@ export class DocumentPreviewController {
 
                 case 'application/pdf':
 
+                    
                 break;
 
                 default:
