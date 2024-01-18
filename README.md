@@ -1,5 +1,9 @@
 # Projeto WhatsApp Clone
 
+Debitos técnicos:
+
+- Falta atualizarem o cruso pra nova versão do firebase (projeto descontinuado por mim devido a erros de versão).
+
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
 
 Projeto desenvolvido como exemplo do Curso Completo de JavaScript na Udemy.com.
